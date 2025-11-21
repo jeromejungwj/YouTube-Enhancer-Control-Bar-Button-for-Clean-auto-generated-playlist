@@ -5,7 +5,7 @@ Adds a custom button to the YouTube Enhancer control bar to clean automatically 
 ## Installation
 
 1. **Install Enhancer for YouTube**  
-   Make sure you have the [Enhancer for YouTube](https://www.mrfdev.com/enhancer-for-youtube) browser extension installed.
+   Make sure you have the [Enhancer for YouTube](https://chromewebstore.google.com/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle) browser extension installed.
 
 2. **Add the Script**  
    - Open Enhancer for YouTube settings.  
